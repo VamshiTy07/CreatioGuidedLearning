@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "99b3cfc9-198d-4494-b41f-9cd96fe56623",
+    "Name": "UsrRealityTypeClassic",
+    "ModifiedOnUtc": "\/Date(1683891485000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Reality type (classic)",
+    "DependsOn": []
+  }
+}
